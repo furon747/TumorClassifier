@@ -28,8 +28,16 @@ Data splitting matters more than you’d think
 Hyperparameter tuning pays off
 – Fine-tuning epochs & learning rate after re-split → final accuracy ~78%
 
-
 ---
+### Loss at each epoch
+![Photo](pic1.png)
+
+### Accuracy at each epoch
+![Photo](pic3.png)
+
+### Confusion Matrix
+![Photo](pic2.png)
+
 
 ## 📌 How to Run  
 ```bash
